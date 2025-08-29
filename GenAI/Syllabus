@@ -1,0 +1,94 @@
+**Generative AI Syllabus**
+
+1. **Introduction to Generative AI**
+
+* Evolution of AI to Generative AI
+* Traditional AI vs Generative AI
+* Applications of Generative AI
+
+2. **Mathematical Foundations**
+
+* Probability and Statistics basics
+* Linear Algebra (vectors, matrices, tensors)
+* Calculus (derivatives, gradients, optimization)
+* Information Theory (entropy, KL divergence)
+
+3. **Machine Learning Foundations**
+
+* Supervised vs Unsupervised Learning
+* Neural Networks basics
+* Backpropagation and optimization algorithms
+* Regularization and generalization
+
+4. **Deep Learning for Generative AI**
+
+* Deep Feedforward Neural Networks
+* Convolutional Neural Networks (CNNs)
+* Recurrent Neural Networks (RNNs, LSTM, GRU)
+* Transformers and Attention Mechanism
+
+5. **Generative Models**
+
+* Autoencoders (AE)
+* Variational Autoencoders (VAE)
+* Generative Adversarial Networks (GANs)
+* Conditional GANs (cGANs)
+* Diffusion Models
+* Energy-Based Models
+
+6. **Large Language Models (LLMs)**
+
+* Architecture of Transformer Models
+* Pre-training and Fine-tuning
+* Embeddings and Tokenization
+* Prompt Engineering
+* Few-shot and Zero-shot learning
+
+7. **Multimodal Generative AI**
+
+* Text-to-Image Models (DALL·E, Stable Diffusion, MidJourney)
+* Text-to-Speech Models (Tacotron, WaveNet)
+* Speech-to-Text and Conversational Models
+* Video Generation Models
+
+8. **Training and Optimization**
+
+* Dataset preparation and augmentation
+* Loss functions for generative tasks
+* Mode collapse and stability issues in GANs
+* Hyperparameter tuning
+* Scaling laws for LLMs
+
+9. **Evaluation Metrics for Generative AI**
+
+* BLEU, ROUGE, METEOR (Text generation)
+* FID, IS (Image generation)
+* Perplexity (Language Models)
+* Human Evaluation
+
+10. **Ethics, Risks, and Responsible AI**
+
+* Bias in Generative Models
+* Misinformation and Deepfakes
+* Copyright and Intellectual Property issues
+* Ethical guidelines and Responsible AI practices
+
+11. **Applications of Generative AI**
+
+* Content Creation (text, image, video, music)
+* Healthcare (drug discovery, medical imaging)
+* Education (personalized tutoring, automated content)
+* Business (chatbots, marketing, product design)
+
+12. **Hands-on Tools & Frameworks**
+
+* TensorFlow, PyTorch for Generative AI
+* Hugging Face Transformers
+* LangChain and LlamaIndex
+* OpenAI API, Stability AI, Google GenAI tools
+
+13. **Capstone Project**
+
+* Design and implement a Generative AI system
+* Example: Text Summarizer, Image Generator, AI Chatbot, Music Generator
+
