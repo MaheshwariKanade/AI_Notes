@@ -1,0 +1,85 @@
+Machine Learning Syllabus
+
+1. Introduction to Machine Learning
+
+* Definition and Scope of ML
+* Types of Machine Learning: Supervised, Unsupervised, Reinforcement
+* Applications of ML
+* Difference between AI, ML, and DL
+
+2. Mathematical Foundations
+
+* Linear Algebra: Vectors, Matrices, Eigenvalues, Eigenvectors, Matrix operations
+* Probability and Statistics: Distributions, Conditional probability, Bayes theorem, Expectation, Variance, Hypothesis testing
+* Calculus and Optimization: Differentiation, Gradient, Partial Derivatives, Gradient Descent, Convex Optimization
+
+3. Supervised Learning
+
+* Regression: Linear, Multiple, Polynomial, Logistic Regression
+* Classification: Decision Trees, Naïve Bayes, k-NN, SVM, Perceptron
+* Ensemble Methods: Bagging, Random Forest, Boosting (AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost)
+* Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, ROC, AUC
+
+4. Unsupervised Learning
+
+* Clustering: k-Means, Hierarchical, DBSCAN
+* Dimensionality Reduction: PCA, LDA, t-SNE, UMAP
+* Association Rule Learning: Apriori, FP-Growth
+
+5. Reinforcement Learning
+
+* Basics of RL
+* Markov Decision Processes
+* Value Iteration, Policy Iteration
+* Q-Learning, SARSA
+* Deep Q-Networks
+
+6. Model Selection and Evaluation
+
+* Train/Test Split, Cross Validation
+* Bias-Variance Tradeoff
+* Underfitting vs Overfitting
+* Regularization: L1, L2, Elastic Net
+* Hyperparameter Tuning: Grid Search, Random Search, Bayesian Optimization
+
+7. Feature Engineering
+
+* Feature Selection: Filter, Wrapper, Embedded Methods
+* Feature Scaling: Normalization, Standardization
+* Encoding: One-hot, Label Encoding, Target Encoding
+* Handling Missing Data: Imputation methods
+* Outlier Detection and Treatment
+
+8. Neural Networks and Deep Learning (Introduction)
+
+* Basics of Neural Networks
+* Activation Functions: Sigmoid, ReLU, Tanh, Softmax
+* Backpropagation Algorithm
+* Introduction to TensorFlow, PyTorch, Keras
+
+9. Advanced Machine Learning Topics
+
+* Semi-Supervised Learning
+* Online and Incremental Learning
+* Transfer Learning
+* Graph-Based Learning
+* Bayesian Machine Learning
+
+10. Practical Machine Learning
+
+* End-to-End ML Pipeline: Data Preprocessing, Model Training, Deployment
+* Handling Imbalanced Data: Oversampling, Undersampling, SMOTE
+* MLOps Basics
+* Tools and Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+11. Applications of Machine Learning
+
+* Healthcare, Finance, Retail, Social Media, Industry 4.0
+
+12. Research and Case Studies
+
+* Benchmark Datasets (MNIST, CIFAR, IMDB, UCI)
+* Real-world ML model implementation
+* ML Research Papers
+* Current Trends: AutoML, Explainable ML, Fairness in ML
+
