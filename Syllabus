@@ -1,0 +1,108 @@
+Detailed Syllabus of Artificial Intelligence
+
+1. Foundations of AI
+
+* History and Evolution of AI
+* Definition and Scope of AI
+* Applications of AI (Healthcare, Finance, Education, Robotics, NLP, Vision, etc.)
+* Intelligent Agents and Environments
+* Types of agents (reflex, goal-based, utility-based, learning agents)
+* PEAS (Performance measure, Environment, Actuators, Sensors)
+
+2. Problem Solving
+
+* State-Space Search
+* Problem formulation
+* Uninformed search (DFS, BFS, Uniform Cost)
+* Informed search (Greedy, A\*)
+* Heuristic Search
+* Hill climbing, Simulated Annealing, Genetic Algorithms
+* Constraint Satisfaction Problems (CSPs)
+* Backtracking, Local Search, Min-Conflicts
+
+3. Knowledge Representation and Reasoning
+
+* Propositional Logic and Predicate Logic
+* Knowledge Representation Methods
+* Semantic Networks, Frames, Ontologies
+* Inference Mechanisms
+* Forward and Backward Chaining, Resolution
+* Uncertainty in AI
+* Fuzzy Logic, Bayesian Networks, Hidden Markov Models
+
+4. Machine Learning
+
+* Supervised Learning
+* Regression (Linear, Logistic, Polynomial)
+* Classification (Decision Trees, Naïve Bayes, SVM, k-NN)
+* Ensemble Learning (Random Forest, Gradient Boosting, XGBoost)
+* Unsupervised Learning
+* Clustering (k-Means, Hierarchical, DBSCAN)
+* Dimensionality Reduction (PCA, t-SNE)
+* Reinforcement Learning
+* Markov Decision Processes, Q-Learning, SARSA, Policy Gradient Methods
+* Model Evaluation: Accuracy, Precision, Recall, F1, ROC-AUC
+
+5. Neural Networks and Deep Learning
+
+* Basics of Artificial Neural Networks (ANNs)
+* Activation Functions (Sigmoid, ReLU, Softmax)
+* Deep Neural Networks (DNNs)
+* Convolutional Neural Networks (CNNs)
+* Image classification, Object detection
+* Recurrent Neural Networks (RNNs)
+* LSTMs, GRUs, Sequence prediction
+* Generative Models
+* GANs (Generative Adversarial Networks), Variational Autoencoders (VAEs)
+* Transfer Learning and Fine-tuning (ResNet, VGG, BERT)
+
+6. Natural Language Processing (NLP)
+
+* Text Preprocessing (Tokenization, Lemmatization, Stop words, POS tagging)
+* Word Embeddings (Word2Vec, GloVe, FastText)
+* Transformers (BERT, GPT family)
+* Sequence-to-Sequence Models
+* Applications: Sentiment Analysis, Chatbots, Text Summarization, Question Answering
+
+7. Computer Vision
+
+* Image Preprocessing (Resizing, Normalization, Augmentation)
+* CNN Architectures (LeNet, AlexNet, VGG, ResNet, Inception, EfficientNet)
+* Object Detection (R-CNN, Fast R-CNN, YOLO, SSD)
+* Image Segmentation (U-Net, Mask R-CNN)
+* Applications: Face Recognition, Medical Imaging, OCR
+
+8. Generative AI
+
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* LangChain, LlamaIndex frameworks
+* Fine-tuning Large Language Models (LLMs)
+* Applications: AI Assistants, Resume Analyzer, AI Tutors
+
+9. Robotics and AI Applications
+
+* Path Planning (A\*, Dijkstra, RRT)
+* Robot Perception and Localization
+* Reinforcement Learning in Robotics
+* Autonomous Vehicles
+
+10. AI Ethics and Explainability
+
+* Bias and Fairness in AI
+* Transparency and Explainable AI (XAI)
+* Adversarial Attacks in AI
+* Responsible AI principles
+
+11. AI Deployment and Tools
+
+* Model Deployment (Flask, FastAPI, Streamlit)
+* MLOps basics: CI/CD for ML, Docker, Kubernetes
+* Cloud AI Services (AWS Sagemaker, GCP AI, Azure ML)
+* Experiment Tracking (MLflow, DVC)
+
+12. Research and Case Studies
+
+* Latest AI Trends (Edge AI, Federated Learning, Multimodal AI)
+* AI in Healthcare, Finance, Education, Cybersecurity, Agriculture
+* Research Paper Writing and Implementation
