@@ -1,0 +1,88 @@
+Deep Learning Syllabus
+
+**1. Introduction to Deep Learning**
+
+* History and evolution of Deep Learning
+* Difference between Machine Learning and Deep Learning
+* Applications of Deep Learning
+
+**2. Neural Networks Basics**
+
+* Biological vs Artificial Neurons
+* Perceptron model
+* Activation functions (Sigmoid, Tanh, ReLU, Leaky ReLU, Softmax)
+* Gradient Descent and Backpropagation
+
+**3. Deep Neural Networks (DNNs)**
+
+* Multilayer Perceptrons (MLPs)
+* Training deep networks
+* Vanishing and Exploding Gradient problems
+* Weight Initialization techniques
+* Batch Normalization
+* Regularization methods (Dropout, L1/L2 regularization, Early stopping)
+
+**4. Convolutional Neural Networks (CNNs)**
+
+* Convolution operation
+* Pooling (Max Pooling, Average Pooling)
+* CNN Architectures (LeNet, AlexNet, VGG, ResNet, Inception, EfficientNet)
+* Transfer Learning using CNNs
+* Applications in Image Processing and Computer Vision
+
+**5. Recurrent Neural Networks (RNNs)**
+
+* Sequence data and time series
+* RNN architecture
+* Vanishing Gradient in RNNs
+* LSTMs (Long Short-Term Memory)
+* GRUs (Gated Recurrent Units)
+* Applications in NLP and Speech Processing
+
+**6. Natural Language Processing with Deep Learning**
+
+* Word Embeddings (Word2Vec, GloVe, FastText)
+* Sequence-to-Sequence models
+* Attention Mechanism
+* Transformer architecture
+* BERT, GPT, and other modern NLP models
+
+**7. Generative Models**
+
+* Autoencoders
+* Variational Autoencoders (VAEs)
+* Generative Adversarial Networks (GANs)
+* Applications of Generative Models
+
+**8. Advanced Topics in Deep Learning**
+
+* Reinforcement Learning basics
+* Deep Q-Networks (DQN)
+* Policy Gradient methods
+* Meta-Learning
+* Few-Shot and Zero-Shot Learning
+* Self-Supervised Learning
+
+**9. Optimization Techniques**
+
+* SGD, Momentum, Nesterov Accelerated Gradient
+* Adaptive methods: AdaGrad, RMSProp, Adam, AdamW
+* Learning Rate Scheduling
+* Hyperparameter tuning (Grid Search, Random Search, Bayesian Optimization)
+
+**10. Deployment and Production**
+
+* Model Serving (Flask, FastAPI, Django)
+* TensorFlow Serving, TorchServe
+* ONNX for model interoperability
+* Model Optimization (Quantization, Pruning, Distillation)
+* MLOps practices for Deep Learning
+
+**11. Tools and Frameworks**
+
+* TensorFlow
+* Keras
+* PyTorch
+* Hugging Face Transformers
+* OpenCV for DL applications
+
