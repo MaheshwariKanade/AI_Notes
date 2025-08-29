@@ -1,0 +1,123 @@
+Syllabus:
+
+### **1. Introduction to Computer Vision**
+
+* Overview of Computer Vision
+* Applications in AI, Robotics, Healthcare, Security, AR/VR, etc.
+* Image formation: Camera models, pinhole camera, perspective projection
+* Human vision vs. computer vision
+
+---
+
+### **2. Image Fundamentals**
+
+* Image representation (binary, grayscale, RGB, multispectral)
+* Pixels, resolution, and sampling
+* Color models (RGB, HSV, LAB, YCbCr)
+* Image file formats (JPEG, PNG, TIFF)
+
+---
+
+### **3. Image Processing Basics**
+
+* Image filtering and transformations
+* Convolution and correlation
+* Smoothing (Gaussian, Median, Bilateral filters)
+* Edge detection (Sobel, Prewitt, Canny)
+* Histogram equalization and contrast enhancement
+* Morphological operations (erosion, dilation, opening, closing)
+
+---
+
+### **4. Feature Extraction**
+
+* Corners, edges, blobs, and ridges
+* SIFT (Scale-Invariant Feature Transform)
+* SURF (Speeded-Up Robust Features)
+* ORB (Oriented FAST and Rotated BRIEF)
+* HOG (Histogram of Oriented Gradients)
+* Feature matching and tracking
+
+---
+
+### **5. Image Segmentation**
+
+* Thresholding (Global, Adaptive, Otsu’s method)
+* Clustering-based segmentation (K-means, Mean-shift)
+* Region-based segmentation (Region growing, Watershed)
+* Graph-based methods (Normalized cuts, GrabCut)
+* Semantic segmentation (Deep learning methods: U-Net, Mask R-CNN)
+
+---
+
+### **6. Object Detection and Recognition**
+
+* Template matching
+* Classical machine learning methods (k-NN, SVM)
+* Deep learning-based object detection:
+
+  * R-CNN, Fast R-CNN, Faster R-CNN
+  * YOLO (You Only Look Once)
+  * SSD (Single Shot Detector)
+  * RetinaNet
+* Face detection and recognition (Haar cascades, Eigenfaces, DeepFace)
+
+---
+
+### **7. Motion Analysis and Tracking**
+
+* Optical flow (Lucas-Kanade, Horn-Schunck)
+* Background subtraction
+* Kalman filter and Particle filter for tracking
+* Multi-object tracking (DeepSORT, ByteTrack)
+
+---
+
+### **8. 3D Computer Vision**
+
+* Stereo vision and depth estimation
+* Structure from Motion (SfM)
+* 3D reconstruction from multiple images
+* Point clouds and 3D object recognition
+* Applications in AR/VR and robotics
+
+---
+
+### **9. Deep Learning for Computer Vision**
+
+* CNN architectures: LeNet, AlexNet, VGG, ResNet, Inception, EfficientNet
+* Transfer Learning and Fine-Tuning
+* Object localization and segmentation networks
+* GANs (Generative Adversarial Networks) for image synthesis
+* Vision Transformers (ViT, DETR)
+
+---
+
+### **10. Advanced Topics**
+
+* Explainable AI in computer vision
+* Zero-shot and Few-shot learning for vision tasks
+* Self-supervised learning in vision
+* Multimodal vision (Vision + Language: CLIP, BLIP, Flamingo)
+* Large Vision Models (e.g., SAM – Segment Anything Model)
+
+---
+
+### **11. Tools, Frameworks, and Datasets**
+
+* OpenCV, Scikit-Image, Pillow
+* Deep learning frameworks: TensorFlow, PyTorch, Keras
+* Popular datasets: MNIST, CIFAR, ImageNet, COCO, Pascal VOC, KITTI, ADE20K
+* Benchmarking and evaluation metrics (IoU, mAP, Precision, Recall, F1-score)
+
+---
+
+### **12. Applications of Computer Vision**
+
+* Facial recognition and biometrics
+* Medical imaging and diagnostics
+* Autonomous vehicles
+* Surveillance and security
+* Augmented and Virtual Reality
+* Robotics and industrial automation
+
